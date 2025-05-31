@@ -19,7 +19,7 @@ google-auth==2.37.0
 google-auth-httplib2==0.2.0
 google-generativeai==0.8.3
 googleapis-common-protos==1.66.0
-pysqlite3-binary
+#pysqlite3-binary
 chromadb==0.5.23
 vertexai==1.71.1
 rank_bm25
