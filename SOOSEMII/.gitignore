@@ -1,0 +1,12 @@
+.env
+__pycache__/
+gen-lang-client-0009382783-cf0bfb2d1c0c.json
+.cache/
+response_data.pkl
+response_data.pkl
+response_data.json
+testbed.ipynb
+2025_course_md.json
+2025수강편람md.txt
+Annual_Update.ipynb
+multiVectorRetriever.ipynb
