@@ -1,6 +1,8 @@
 from langchain_upstage import UpstageEmbeddings
 from langchain_chroma import Chroma
+from dotenv import load_dotenv
 
+load_dotenv()
 embeddings = UpstageEmbeddings(model="embedding-passage")
 
 def context_retriever() : 
